@@ -16,6 +16,9 @@ This Meta Ads Performance Dashboard provides a comprehensive, real-time view of 
 
 Built entirely in Power BI, the dashboard integrates key metrics, demographic breakdowns, geographic trends, and ad format performance into a single interactive interface.
 
+
+![Dashboard](Instagram.png)
+
 🚀 Key Features
 
 Feature	Description
@@ -61,3 +64,4 @@ DAX Measures – Dynamic KPIs, YoY/MoM calculations
 Custom Visuals – Calendar heatmap, enhanced tooltips
 
 Data Sources – Simulated Meta Ads Manager export (CSV)
+
